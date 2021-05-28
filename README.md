@@ -1,4 +1,4 @@
-# Longitudinal Analysis of Disparities in Marijuana Arrests in the District of Columbia
+# Exploratory Analysis of Disparities in Marijuana Arrests in the District of Columbia
 The study investigates the extent of racial disparity in Washington, D.C.’s marijuana arrests by using longitudinal analysis. In addition, how racial disparity in marijuana arrests might be linked to a systematic racial bias is also explored.
 
 This study uses the D.C. crime incident data made available by the D.C. police department. The data about the relative ethno-racial composition by year in the District of Columbia is sourced from the US Census Bureau website.
