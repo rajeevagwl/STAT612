@@ -11,9 +11,9 @@ Publication No. SMA 04–3963) Rockville, MD: 2004a.
 2. Johnson RM, Fairman B, Gilreath T, Xuan Z, Rothman EF, Parnham T, Furr-Holden. Past 15-year
 trends in adolescent marijuana use: Differences by race/ethnicity and sex. CD Drug Alcohol Depend.
 2015 Oct 1; 155():8-15.
-3. Pacek LR, Malcolm RJ, Martins SS. Race/ethnicity differences between alcohol, marijuana, and cooccurring alcohol and marijuana use disorders and their association with public health and social
+3. Pacek LR, Malcolm RJ, Martins SS. Race/ethnicity differences between alcohol, marijuana, and co-occurring alcohol and marijuana use disorders and their association with public health and social
 problems using a national sample. Am J Addict. 2012 Sep-Oct; 21(5):435-44.
-4. Drug Policy Alliance. Report: From Prohibition to Progress: A Status Report on Marijuana Legalization. 2018. Available at https://drugpolicy.org/sites/default/files/dpa_marijuana_legalization_
+4. Drug Policy Alliance. Report: From Prohibition to Progress: A Status Report on Marijuana Legalization. 2018. Available at https://drugpolicy.org/sites/default/files/dpa_marijuana_legalization_
 report_feb14_2018_0.pdf [accessed Feb. 2021].
 5. D.C. Crime incident data from the Metropolitan Police Department. Available at https://mpdc.dc.
 gov/page/statistics-and-data [accessed Feb. 2021]
