@@ -25,4 +25,4 @@ Division. June 2020. Available at https://www.census.gov/data/tables/time-series
 legalization in Washington State reduce racial disparities in adult marijuana arrests?. Substance Use
 & Misuse. 2019. 54. 1-6. 10.1080/10826084.2019.1593007.
 8. American Civil Liberties Union. Report: A Tale of Two Countries: Racially Targeted Arrests in
-the Era of Marijuana Reform. 2020. Available at https://www.aclu.org/report/tale-two-countriesracially-targeted-arrests-era-marijuana-reform [accessed Feb. 2021].
+the Era of Marijuana Reform. 2020. Available at https://www.aclu.org/report/tale-two-countries-racially-targeted-arrests-era-marijuana-reform [accessed Feb. 2021].
